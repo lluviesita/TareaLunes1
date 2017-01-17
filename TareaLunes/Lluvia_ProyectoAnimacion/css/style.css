@@ -27,6 +27,15 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
+.imagen3{/*Fondo de un div*/
+  width: 100%;
+  height: 400px;
+  background-image: url("../imagenes/web7.jpg");
+  background-repeat: no-repeat;
+  background-size: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .animacion{
   width: 100px;
